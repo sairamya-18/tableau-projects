@@ -22,13 +22,6 @@ Here I’ll be uploading all my Tableau workbooks, dashboards, and practice proj
 - Dashboard Design (KPIs, Filters, Parameters)  
 - Storytelling with Data  
 
----
-
-## 📷 Screenshots
-(Add PNG images of dashboards here — makes it visually appealing)
-
-Example:  
-![Dashboard Preview](screenshots/sample.png)
 
 ---
 
