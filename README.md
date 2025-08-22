@@ -22,6 +22,13 @@ Here I’ll be uploading all my Tableau workbooks, dashboards, and practice proj
 - Storytelling with Data  
 
 ---
+## 🔗 Tableau Public Portfolio
+You can explore all my published dashboards on my Tableau Public profile:  
+👉 **[My Tableau Public Profile](#)**  
+
+(I’ll keep updating this repo + Tableau Public with my latest work)
+
+---
 
 ## 📜 License
 This repository is licensed under the **MIT License** – free to use with attribution.  
